@@ -283,7 +283,7 @@ class OtherScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListView(children: [
       _buildItem(context, "الاعدادات", "إعدادات الامان والخصوصية", Icons.settings),
-      _buildItem(context, "التنبيهات", "عرض التنبيهات والرسائل الاعلانية", Icons.notifications),
+      _buildItem(contegxt, "التنبيهات", "عرض التنبيهات والرسائل الاعلانية", Icons.notifications),
       _buildItem(context, "المفضلات", "حفظ ارقام حسابات او فواتير للرجوع إليها بسرعة", Icons.star),
       _buildItem(context, "الملف الشخصي", "تغيير البيانات الشخصية الاسم,الصورة الرمزية", Icons.person),
       _buildItem(context, "مواقع الوكلاء والتجار", "ابحث عن اقرب موقع لوكيل او تاجر معتمد", Icons.location_on),
