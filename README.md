@@ -19,8 +19,5 @@
 ---
 
 ## عن المشروع
-هذا التطبيق هو نقطة انطلاق لتطبيق Flutter يحتوي على واجهات مستخدم متميزة.
+هذا التطبيق هو نقطة انطلاق لتطبيق Flutter يحتوي على واجهات مستخدم متميزة تم اعدادة بواسطة المهندس/محمد سعيد الحذيفي.
 
-## المصادر التعليمية
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [online documentation](https://docs.flutter.dev/)
